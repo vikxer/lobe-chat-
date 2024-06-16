@@ -2,7 +2,7 @@
   "ModelSwitch": {
     "title": "模型"
   },
-  "agentDefaultMessage": "你好，我是 **{{name}}**，你可以立即与我开始对话，也可以前往 [助手设置](/chat/settings#session={{id}}) 完善我的信息。",
+  "agentDefaultMessage": "此对话是免费对话，每日有聊天上限，使用过程中有任何问题，欢迎到公众号：星衍AI，留言反馈。",
   "agentDefaultMessageWithSystemRole": "你好，我是 **{{name}}**，{{systemRole}}，让我们开始对话吧！",
   "agentsAndConversations": "助手与会话",
   "backToBottom": "跳转至当前",
@@ -22,7 +22,7 @@
   "emptyAgent": "暂无助手",
   "historyRange": "历史范围",
   "inbox": {
-    "desc": "开启大脑集群，激发思维火花。你的智能助理，在这里与你交流一切",
+    "desc": "星衍AI",
     "title": "随便聊聊"
   },
   "input": {
